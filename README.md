@@ -42,10 +42,21 @@
 
 ---
 
-## 📫 Activities
+## 📈 Activities
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daley12306)](https://github.com/daley12306/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/daley12306/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=daley12306" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/daley12306/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daley12306" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daley12306)](https://github.com/daley12306/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daley12306&bg_color=ffffff&color=000000&line=5c9aff&point=516aec&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![daley12306's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daley12306&bg_color=ffffff&color=000000&line=5c9aff&point=516aec&area=true&hide_border=true)](https://github.com/daley12306/github-readme-activity-graph)
