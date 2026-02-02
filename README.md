@@ -2,22 +2,14 @@
 
 🎓 I'm a **Data Engineering student** at **Ho Chi Minh City University of Technology and Education (HCMUTE)**, with an expected graduation in **2026**.
 
-🚀 I’m passionate about:
+🌱 I’m passionate about:
 - Designing **real-time streaming data pipelines**
 - Building **cloud-native data architectures**
 - Exploring **big data processing** frameworks and tools
 
 ---
 
-## 🌐 Connect with me
-
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://facebook.com/daley12306)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thienphuc2306)  
-[![Gmail Badge](https://img.shields.io/badge/-thienphuc7434552@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thienphuc7434552@gmail.com)
-
----
-
-## 🛠️ Tech Stack 
+## Tech Stack 
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)
@@ -41,25 +33,3 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
-
-
----
-
-## 📈 Activities
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/daley12306/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=daley12306" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/daley12306/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daley12306" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-[![daley12306's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daley12306&bg_color=ffffff&color=000000&line=5c9aff&point=516aec&area=true&hide_border=true)](https://github.com/daley12306/github-readme-activity-graph)
